@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "username": "Azwad Siddiqui",
+      "email": "azwadgkp@gmail.com",
+      "password": "12345678",
+      "id": 3
+    },
+    {
+      "username": "Anand Mishra",
+      "email": "mishraanand123@gmail.com",
+      "password": "",
+      "id": 4
+    },
+    {
+      "username": "Mahfooz Khan",
+      "email": "mahfooz123@gmail.com",
+      "password": "",
+      "id": 5
+    },
+    {
+      "username": "Aditya",
+      "email": "aditya123@gmail.com",
+      "password": "1234",
+      "id": 6
+    },
+    {
+      "username": "Abhay",
+      "email": "abhay1234@gmail.com",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "username": "Mritunjay Singhaniya",
+      "email": "mrittunjay1234@gmail.com",
+      "password": "123334",
+      "id": 8
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
